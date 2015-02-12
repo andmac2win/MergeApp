@@ -14,7 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+<<<<<<< HEAD
         // first person code
+=======
+        // second person code
+>>>>>>> FETCH_HEAD
     }
 
     override func didReceiveMemoryWarning() {
